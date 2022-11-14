@@ -1,0 +1,36 @@
+button {
+  background-color: black; /* Green */
+  border-color: white;
+  color: red;
+  padding: 30px;
+  margin: 20 px;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+}
+
+#boardarea {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-bottom: 150px;
+    background-color: white;
+}
+
+body {
+    background-color: gray;
+}
+
+#controls {
+    display: flex;
+    justify-content: center;
+}
